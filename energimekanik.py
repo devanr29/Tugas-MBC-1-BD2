@@ -21,4 +21,4 @@ print("\n\n\nKalkulator Energi Mekanik \n\n\n")
 def rumusmekanik(rumuskinetik,rumuspotensial):
     mekanik = rumuskinetik+rumuspotensial
     return mekanik
-print ("\n\nNilai Energi Mekanik dari data diatas adalah gi", rumusmekanik(rumuskinetik,rumuspotensial))
+print ("\n\nNilai Energi Mekanik dari data diatas adalah ", rumusmekanik(rumuskinetik,rumuspotensial))
